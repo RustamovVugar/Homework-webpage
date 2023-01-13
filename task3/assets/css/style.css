@@ -1,0 +1,43 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#wrapper{
+    width: 500px;
+    height: 670px;
+    margin: auto;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.wrapper-card{
+    text-align: center;
+    opacity: 0.7;
+}
+.first{
+    padding-top: 15px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 50px;
+    transform: rotate(-25deg);
+}
+.second{
+    padding-top: 30px;
+    letter-spacing: 3px;
+    font-size: 20px;
+    font-family: ;
+}
+.third{
+    padding-top: 30px;
+}
+.fourth{
+    padding-top: 30px;
+    line-height: 1.8;
+    font-family: ;
+}
+.fifth{
+    padding-top: 30px;
+    font-size: 15px;
+    font-family: ;
+}
